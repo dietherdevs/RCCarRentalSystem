@@ -1,0 +1,10 @@
+{
+  "description": "Manage RC car rentals and track access seamlessly with this system designed for small RC track businesses, enhancing operational efficiency and customer experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
